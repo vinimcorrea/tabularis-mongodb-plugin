@@ -1,0 +1,27 @@
+Cargo.lock
+  s_30196314917b14::t_dd909592aa9145 403,909-918,1684,1923-1928,2144
+Cargo.toml
+  s_30196314917b14::t_a8f129811cd3d0 14
+src/main.rs
+  s_30196314917b14::t_452efa42f2dc36 8-9,1055,1058,1068,1125-1188,1363-1394,1398-1399,1401,1432,1436,1601,1619,2114-2211,2298-2301
+src/query_text.rs
+  s_30196314917b14::t_728dd65142ee57 1-337
+src/query_text/tests.rs
+  s_30196314917b14::t_d718c019214c2a 1-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ae2c598851cd97c7b11e8f567b7d75d219c3b0f0",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
