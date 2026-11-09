@@ -1,0 +1,23 @@
+Cargo.toml
+  s_30196314917b14::t_04d45a750330ff 9
+src/main.rs
+  s_30196314917b14::t_26478728db3fee 340-399,1998-2074
+Cargo.lock
+  s_30196314917b14::t_022b9a360aa6e7 406-419,626,647,674,862,1063,1090,1699-1707,1714-1725,1841-1851
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "c3199a596bc04149f77d302e19d1275f8cb0d7f4",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <viniciusmc@inditex.com>"
+    }
+  }
+}
