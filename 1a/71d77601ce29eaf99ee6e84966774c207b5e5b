@@ -1,0 +1,19 @@
+src/main.rs
+  s_30196314917b14::t_8b9949cc13e782 1784-1788,1804-1822,1843-1845,1933-1939,2016-2119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1a71d77601ce29eaf99ee6e84966774c207b5e5b",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
