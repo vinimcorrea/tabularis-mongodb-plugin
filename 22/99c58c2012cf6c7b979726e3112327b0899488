@@ -1,0 +1,23 @@
+.tabularium
+  s_e5ee997070bac4::t_9efc996bb09a82 25
+README.md
+  s_e5ee997070bac4::t_e03c0d24f47c63 35,71-79
+src/main.rs
+  s_e5ee997070bac4::t_88e6175519452d 344-356,372-394,413-419,2063-2091,2093,2095-2097,2100-2139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2299c58c2012cf6c7b979726e3112327b0899488",
+  "prompts": {},
+  "sessions": {
+    "s_e5ee997070bac4": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "75c441e0-ba3b-498d-8573-ba7e8cf55eec",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
