@@ -1,0 +1,36 @@
+Cargo.toml
+  s_30196314917b14::t_04d45a750330ff 9
+README.md
+  s_e5ee997070bac4::t_e03c0d24f47c63 35,71-79
+.tabularium
+  s_e5ee997070bac4::t_9efc996bb09a82 25
+src/main.rs
+  s_e5ee997070bac4::t_88e6175519452d 344-356,372-394,413-419,2063-2091,2093,2095-2097,2100-2139
+  s_30196314917b14::t_26478728db3fee 340-343,357-371,395-412,420-435,2034-2062,2092,2094,2098-2099,2140-2178
+Cargo.lock
+  s_30196314917b14::t_022b9a360aa6e7 406-419,626,647,674,862,1063,1090,1699-1707,1714-1725,1841-1851
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "139487156a839a0beb1f297fba8e22ee72c2cd71",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <viniciusmc@inditex.com>"
+    },
+    "s_e5ee997070bac4": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "75c441e0-ba3b-498d-8573-ba7e8cf55eec",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
